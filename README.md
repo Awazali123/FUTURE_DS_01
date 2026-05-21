@@ -28,3 +28,5 @@ Analyze sales data to identify trends, top-performing products, and regional per
 ## 📁 Files Included
 - Tableau Dashboard (.twbx)
 - Dataset
+##Link of portaal
+-https://public.tableau.com/app/profile/shaik.awaz.ali/viz/MYWorksheet/Dashboard1?publish=yes
