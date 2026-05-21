@@ -33,3 +33,20 @@ The dashboard includes:
 
 ## 🔗 Project Link
 https://public.tableau.com/app/profile/shaik.awaz.ali/viz/MYWorksheet/Dashboard1?publish=yes
+## Dashboard Preview
+
+![Dashboard Preview] (dashboard.png)
+
+## Business Problem
+Businesses often struggle to identify profitable categories, regional performance trends, and loss-making products. This project analyzes sales performance to support data-driven business decisions.
+
+## KPIs Analyzed
+- Total Sales
+- Total Profit
+- Profit Margin
+- Regional Performance
+- Category-wise Sales
+- Top Products
+
+## Conclusion
+This dashboard helps businesses monitor sales performance, identify growth opportunities, and improve decision-making through interactive visual analytics.
